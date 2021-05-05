@@ -1,5 +1,4 @@
 # chaosNet
-# my idea for codefundo++
 - An application that can help manage disaster hit areas and smoothen search and rescue operations
 - The name of the app is chaosNet
 - chaosNet works by making a network with all nearby devices using technologies such as WiFi and/or Bluetooth
